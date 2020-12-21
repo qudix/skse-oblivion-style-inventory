@@ -1,0 +1,12 @@
+{
+    "name": "oblivionstyleinventory",
+    "version-string": "0.0.0",
+    "description": "Skyrim SE port of Oblivion Style Inventory",
+    "homepage": "https://github.com/Qudix/OblivionStyleInventory",
+    "license": "",
+    "dependencies": [
+      "boost-atomic",
+      "span-lite",
+      "spdlog"
+    ]
+  }
